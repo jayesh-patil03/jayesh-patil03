@@ -41,46 +41,6 @@ I'm a Computer Engineering graduate passionate about backend development, softwa
 
 ---
 
-## 🚀 Featured Projects
-
-### 1. DevPilot — AI-Powered Codebase Assistant
-
-An AI-powered GitHub repository assistant that helps developers understand and explore codebases using natural language.
-
-- Integrated GitHub OAuth 2.0 and Google Gemini.
-- Implemented semantic code search using PostgreSQL and pgvector.
-- Built the backend with Java, Spring Boot, and Spring AI.
-- Containerized the backend with Docker and deployed application components to the cloud.
-
-**Tech Stack:** Java · Spring Boot · Spring AI · PostgreSQL · pgvector · Gemini · Docker · Next.js
-
-<p>
-  <a href="https://github.com/jayesh-patil03/DevPilot">
-    <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github" alt="DevPilot repository" />
-  </a>
-</p>
-
-### 2. AI Resume Builder
-
-A full-stack application for creating, customizing, enhancing, and sharing resumes with AI assistance.
-
-- Built customizable resume templates and resume management features.
-- Integrated Google Gemini for AI-generated resume content.
-- Implemented PDF generation and public resume sharing.
-- Automated deployment using Docker, AWS EC2, and GitHub Actions.
-
-**Tech Stack:** React · Node.js · Express · MongoDB · Gemini · Docker · AWS EC2
-
-<p>
-  <a href="https://github.com/jayesh-patil03/AI_Resume_Builder">
-    <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github" alt="AI Resume Builder repository" />
-  </a>
-  <a href="https://ai-resume-builder-pi-ten.vercel.app/">
-    <img src="https://img.shields.io/badge/Live%20Demo-Visit-16A34A?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demo" />
-  </a>
-</p>
-
----
 
 ## 🛠️ Tech Stack
 
@@ -138,12 +98,70 @@ A full-stack application for creating, customizing, enhancing, and sharing resum
   <img src="https://ghchart.rshah.org/0e75b6/jayesh-patil03" alt="GitHub contribution calendar" width="100%" />
 </p>
 
-<!-- Detailed activity graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jayesh-patil03&theme=tokyo-night&hide_border=true" alt="GitHub activity graph" width="100%" />
+---
+
+## 🚀 Featured Projects
+
+### 1. DevPilot — AI-Powered Codebase Assistant
+
+An AI-powered GitHub repository assistant that helps developers understand and explore codebases using natural language.
+
+- Integrated GitHub OAuth 2.0 and Google Gemini.
+- Implemented semantic code search using PostgreSQL and pgvector.
+- Built the backend with Java, Spring Boot, and Spring AI.
+- Containerized the backend with Docker and deployed application components to the cloud.
+
+**Tech Stack:** Java · Spring Boot · Spring AI · PostgreSQL · pgvector · Gemini · Docker · Next.js
+
+<p>
+  <a href="https://github.com/jayesh-patil03/DevPilot">
+    <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github" alt="DevPilot repository" />
+  </a>
 </p>
 
+### 2. AI Resume Builder
+
+A full-stack application for creating, customizing, enhancing, and sharing resumes with AI assistance.
+
+- Built customizable resume templates and resume management features.
+- Integrated Google Gemini for AI-generated resume content.
+- Implemented PDF generation and public resume sharing.
+- Automated deployment using Docker, AWS EC2, and GitHub Actions.
+
+**Tech Stack:** React · Node.js · Express · MongoDB · Gemini · Docker · AWS EC2
+
+<p>
+  <a href="https://github.com/jayesh-patil03/AI_Resume_Builder">
+    <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github" alt="AI Resume Builder repository" />
+  </a>
+  <a href="https://ai-resume-builder-pi-ten.vercel.app/">
+    <img src="https://img.shields.io/badge/Live%20Demo-Visit-16A34A?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demo" />
+  </a>
+</p>
+
+
+### 3. StayEase — Rental Property Platform
+
+A full-stack rental platform that connects property owners and tenants, allowing users to explore rental listings and manage property-related activities.
+
+- 🏠 Developed property listing and management features.
+- 🔐 Implemented authentication and role-based access for owners and tenants.
+- 🔎 Built a user-friendly interface for browsing available properties.
+- 📱 Designed responsive pages for a smooth user experience.
+
+**Tech Stack:** MongoDB · Express.js · React.js · Node.js · JavaScript · Bootstrap
+
+<p>
+  <a href="https://github.com/jayesh-patil03/StayEase">
+    <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github" alt="StayEase GitHub repository" />
+  </a>
+  <a href="https://stay-easy-gd6j.vercel.app/listings">
+    <img src="https://img.shields.io/badge/Live%20Demo-Visit-16A34A?style=for-the-badge&logo=vercel&logoColor=white" alt="StayEase live demo" />
+  </a>
+</p>	
+
 ---
+
 
 ## 🎯 Current Goals
 
@@ -156,9 +174,6 @@ A full-stack application for creating, customizing, enhancing, and sharing resum
 
 ---
 
-<p align="center">
-  <i>"Consistency, curiosity, and continuous improvement."</i>
-</p>
 
 <p align="center">
   Thanks for visiting my profile! ⭐ Feel free to explore my repositories and connect with me.
